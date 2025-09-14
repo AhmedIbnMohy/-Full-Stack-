@@ -1,6 +1,5 @@
 {
     "require": {
-        "fruitcake/laravel-cors": "^3.0",
-        "tymon/jwt-auth": "2.1"
+        "fruitcake/laravel-cors": "^3.0"
     }
 }
